@@ -3,4 +3,4 @@ API of the Brabank App, created in the Software Development course on SENAI writ
 
 ## How to run project
 
-⋅⋅* npm start
+* npm start
